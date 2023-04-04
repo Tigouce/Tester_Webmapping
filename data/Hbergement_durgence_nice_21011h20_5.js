@@ -1,0 +1,1 @@
+var json_Hbergement_durgence_nice_21011h20_5 = {"type":"FeatureCollection","name":"Hbergement_durgence_nice_21011h20_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[7.254865573534419,43.717939879694377]}}]}
